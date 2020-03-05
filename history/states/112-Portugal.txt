@@ -1,0 +1,39 @@
+
+state={
+	id=112
+	name="STATE_112"
+	manpower = 1269100
+	resources={
+		tungsten=5
+	}
+	
+	state_category = town
+
+	history={
+		owner = SPR
+		victory_points = {
+			11805 10
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+			dockyard = 2
+			air_base = 5
+			11805 = {
+				naval_base = 6
+			}
+		}
+		add_core_of = SPR
+		add_core_of = POR
+		
+		1980.6.2 = {
+			owner = SOV
+			controller = SOV
+			add_core_of = SOV
+		}
+	}
+
+	provinces={
+		799 844 924 970 3798 3861 6924 11768 11805 
+	}
+}
