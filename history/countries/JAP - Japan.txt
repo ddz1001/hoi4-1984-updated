@@ -1,4 +1,4 @@
-﻿capital = 282
+capital = 282
 
 set_technology = {
 	infantry_weapons = 1
@@ -43,14 +43,10 @@ if = {
 
 set_politics = {
 
-	parties = {
-		democratic = { 
-			popularity = 0
-		}
+	set_popularities = {
+		democratic = 0
 
-		fascism = {
-			popularity = 100
-		}
+		fascism = 100
 		
 		communism = {
 			popularity = 0
@@ -68,14 +64,10 @@ set_politics = {
 1983.12.1 = {
 	set_politics = {
 
-		parties = {
-			democratic = { 
-				popularity = 0
-			}
+		set_popularities = {
+			democratic = 0
 
-			fascism = {
-				popularity = 100
-			}
+			fascism = 100
 			
 			communism = {
 				popularity = 0

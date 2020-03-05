@@ -1,4 +1,4 @@
-﻿capital = 681
+capital = 681
 
 # Starting tech
 set_technology = {
@@ -42,18 +42,12 @@ if = {
 
 set_politics = {
 
-	parties = {
-		democratic = { 
-			popularity = 100
-		}
+	set_popularities = {
+		democratic = 100
 
-		fascism = {
-			popularity = 0
-		}
+		fascism = 0
 		
-		communism = {
-			popularity = 0
-		}
+		communism = 0
 	}
 	
 	ruling_party = democratic
@@ -75,14 +69,10 @@ diplomatic_relation = { country = JAP relation = non_aggression_pact }
 1983.12.1 = {
 	set_politics = {
 
-		parties = {
-			democratic = { 
-				popularity = 100
-			}
+		set_popularities = {
+			democratic = 100
 
-			fascism = {
-				popularity = 0
-			}
+			fascism = 0
 			
 			communism = {
 				popularity = 0

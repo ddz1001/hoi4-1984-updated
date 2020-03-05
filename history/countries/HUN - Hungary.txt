@@ -1,4 +1,4 @@
-﻿capital = 43
+capital = 43
 
 oob = "1980_GENERIC"
 
@@ -29,22 +29,14 @@ set_technology = {
 
 set_politics = {
 
-	parties = {
-		democratic = { 
-			popularity = 0
-		}
+	set_popularities = {
+		democratic = 0
 
-		fascism = {
-			popularity = 0
-		}
+		fascism = 0
 		
-		communism = {
-			popularity = 0
-		}
+		communism = 0
 		
-		neutrality = { 
-			popularity = 100
-		}
+		neutrality = 100
 	}
 	
 	ruling_party = neutrality
