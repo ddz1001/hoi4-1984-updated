@@ -1,4 +1,4 @@
-﻿capital = 554
+capital = 554
 
 set_variable = { espionage_mana = 50 }
 set_variable = { counterespionage_mana = 50 }
@@ -52,22 +52,16 @@ diplomatic_relation = { country = INS relation = non_aggression_pact }
 set_politics = {
 
 	parties = {
-		democratic = { 
-			popularity = 0
-		}
+		democratic = 0
 
-		fascism = {
-			popularity = 0
-		}
+		fascism = 0
 		
 		communism = {
 			popularity = 0
 			#banned = no #default is no
 		}
 		
-		neutrality = { 
-			popularity = 100
-		}
+		neutrality = 100
 	}
 	
 	ruling_party = neutrality
@@ -124,22 +118,16 @@ create_country_leader = {
 	set_politics = {
 
 		parties = {
-			democratic = { 
-				popularity = 0
-			}
+			democratic = 0
 
-			fascism = {
-				popularity = 0
-			}
+			fascism = 0
 			
 			communism = {
 				popularity = 0
 				#banned = no #default is no
 			}
 			
-			neutrality = { 
-				popularity = 100
-			}
+			neutrality = 100
 		}
 		
 		ruling_party = neutrality
