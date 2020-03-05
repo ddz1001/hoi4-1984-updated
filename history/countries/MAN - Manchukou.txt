@@ -42,7 +42,7 @@ if = {
 
 set_politics = {
 
-	parties = {
+	set_popularities = {
 		democratic = 0
 
 		fascism = 100
@@ -118,7 +118,7 @@ create_corps_commander = {
 1983.12.1 = {
 	set_politics = {
 
-		parties = {
+		set_popularities = {
 			democratic = 0
 
 			fascism = 100

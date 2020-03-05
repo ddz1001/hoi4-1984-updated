@@ -50,7 +50,7 @@ diplomatic_relation = { country = SIA relation = non_aggression_pact }
 
 set_politics = {
 
-	parties = {
+	set_popularities = {
 		democratic = 0
 
 		fascism = 0
@@ -113,7 +113,7 @@ create_country_leader = {
 	add_political_power = 1198
 	set_politics = {
 
-		parties = {
+		set_popularities = {
 		democratic = 0
 
 		fascism = 0

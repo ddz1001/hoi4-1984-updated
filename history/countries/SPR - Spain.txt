@@ -37,7 +37,7 @@ set_convoys = 100
 
 set_politics = {
 
-	parties = {
+	set_popularities = {
 		democratic = 0
 
 		fascism = 0

@@ -29,7 +29,7 @@ set_technology = {
 
 set_politics = {
 
-	parties = {
+	set_popularities = {
 		democratic = 0
 
 		fascism = 0

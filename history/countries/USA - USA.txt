@@ -51,7 +51,7 @@ diplomatic_relation = { country = NEP relation = non_aggression_pact }
 diplomatic_relation = { country = JAP relation = non_aggression_pact }
 set_politics = {
 
-	parties = {
+	set_popularities = {
 		democratic = 100
 
 		fascism = 0
@@ -73,7 +73,7 @@ set_politics = {
 
 	set_politics = {
 
-		parties = {
+		set_popularities = {
 			democratic = 100
 
 			fascism = 0
