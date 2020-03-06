@@ -27,7 +27,7 @@ set_technology = {
 	motorised_infantry = 1
 }
 
-set_politics = {
+
 
 	set_popularities = {
 		democratic = 0
@@ -38,6 +38,8 @@ set_politics = {
 		
 		neutrality = 100
 	}
+set_politics = {
+
 	
 	ruling_party = neutrality
 	last_election = "1978.11.1"

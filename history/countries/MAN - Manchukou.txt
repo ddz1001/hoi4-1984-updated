@@ -40,20 +40,19 @@ if = {
 	add_to_tech_sharing_group = eastasia_research
 }
 
-set_politics = {
+
 
 	set_popularities = {
 		democratic = 0
 
 		fascism = 100
 		
-		communism = {
-			popularity = 0
-			banned = no
-		}
+		communism = 0
 
 		neutrality = 0
 	}
+set_politics = {
+
 	
 	ruling_party = fascism
 	last_election = "1936.1.1"
@@ -116,20 +115,19 @@ create_corps_commander = {
 	logistics_skill = 3
 }
 1983.12.1 = {
-	set_politics = {
+	
 
 		set_popularities = {
 			democratic = 0
 
 			fascism = 100
 		
-			communism = {
-				popularity = 0
-				banned = no
-			}
+			communism = 0
 
 			neutrality = 0
 		}
+set_politics = {
+
 	
 		ruling_party = fascism
 		last_election = "1936.1.1"

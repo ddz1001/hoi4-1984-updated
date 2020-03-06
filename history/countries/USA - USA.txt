@@ -49,18 +49,17 @@ diplomatic_relation = { country = MAN relation = non_aggression_pact }
 diplomatic_relation = { country = PER relation = non_aggression_pact }
 diplomatic_relation = { country = NEP relation = non_aggression_pact }
 diplomatic_relation = { country = JAP relation = non_aggression_pact }
-set_politics = {
+
 
 	set_popularities = {
 		democratic = 100
 
 		fascism = 0
 		
-		communism = {
-			popularity = 0
-			#banned = no #default is no
-		}
+		communism = 0
 	}
+set_politics = {
+
 	
 	ruling_party = democratic
 	last_election = "1932.11.8"
@@ -71,18 +70,17 @@ set_politics = {
 
 1983.12.1 = {
 
-	set_politics = {
+	
 
 		set_popularities = {
 			democratic = 100
 
 			fascism = 0
 			
-			communism = {
-				popularity = 0
-				#banned = no #default is no
-			}
+			communism = 0
 		}
+set_politics = {
+
 		
 		ruling_party = democratic
 		last_election = "1936.11.3"

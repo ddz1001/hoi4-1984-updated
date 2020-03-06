@@ -48,7 +48,7 @@ if = {
 
 diplomatic_relation = { country = SIA relation = non_aggression_pact }
 
-set_politics = {
+
 
 	set_popularities = {
 		democratic = 0
@@ -58,6 +58,8 @@ set_politics = {
 		communism = 0
 		neutrality = 100
 	}
+set_politics = {
+
 
 	ruling_party = neutrality
 	last_election = "1978.11.1"
@@ -111,20 +113,19 @@ create_country_leader = {
 
 1983.1.1 = {
 	add_political_power = 1198
-	set_politics = {
+	
 
 		set_popularities = {
 		democratic = 0
 
 		fascism = 0
 		
-		communism = {
-			popularity = 0
-			#banned = no #default is no
-		}
+		communism = 0
 		
 		neutrality = 100
 	}
+set_politics = {
+
 		
 		ruling_party = neutrality
 		last_election = "1982.11.1"

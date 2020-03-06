@@ -48,18 +48,17 @@ add_to_faction = PER
 add_to_faction = MAN
 
 
-set_politics = {
+
 
 	set_popularities = {
 		democratic = 0
 
 		fascism = 100
 		
-		communism = {
-			popularity = 0
-			#banned = no #default is no
-		}
+		communism = 0
 	}
+set_politics = {
+
 	
 	ruling_party = fascism
 	last_election = "1975.1.1"
@@ -68,18 +67,17 @@ set_politics = {
 }
 
 1983.12.1 = {
-	set_politics = {
+	
 
 		set_popularities = {
 			democratic = 0
 
 			fascism = 100
 			
-			communism = {
-				popularity = 0
-				#banned = no #default is no
-			}
+			communism = 0
 		}
+set_politics = {
+
 		
 		ruling_party = fascism
 		last_election = "1975.1.1"

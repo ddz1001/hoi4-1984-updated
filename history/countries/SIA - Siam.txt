@@ -45,20 +45,19 @@ if = {
 	add_to_tech_sharing_group = resistance_research
 }
 
-set_politics = {
+
 
 	set_popularities = {
 		democratic = 0
 
 		fascism = 0
 		
-		communism = {
-			popularity = 0
-			#banned = no #default is no
-		}
+		communism = 0
 		
 		neutrality = 100
 	}
+set_politics = {
+
 	
 	ruling_party = neutrality
 	last_election = "1978.11.1"
@@ -78,20 +77,19 @@ create_country_leader = {
 }
 
 1983.12.1 = {
-	set_politics = {
+	
 
 		set_popularities = {
 			democratic = 0
 
 			fascism = 0
 			
-			communism = {
-				popularity = 0
-				#banned = no #default is no
-			}
+			communism = 0
 			
 			neutrality = 100
 		}
+set_politics = {
+
 		
 		ruling_party = neutrality
 		last_election = "1982.11.1"

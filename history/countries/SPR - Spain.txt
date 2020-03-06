@@ -35,7 +35,7 @@ add_ideas = {
 set_convoys = 100
 
 
-set_politics = {
+
 
 	set_popularities = {
 		democratic = 0
@@ -44,6 +44,8 @@ set_politics = {
 		
 		communism = 100
 	}
+set_politics = {
+
 	
 	ruling_party = communism
 	last_election = "1933.2.16"

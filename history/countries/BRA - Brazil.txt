@@ -41,7 +41,7 @@ if = {
 	add_to_tech_sharing_group = oceania_research
 }
 
-set_politics = {
+
 
 	set_popularities = {
 		democratic = 100
@@ -52,6 +52,8 @@ set_politics = {
 		
 		neutrality = 0
 	}
+set_politics = {
+
 	
 	ruling_party = democratic
 	last_election = "1934.7.17"
@@ -126,7 +128,7 @@ create_corps_commander = {
 }
 
 1983.12.1 = {
-	set_politics = {
+	
 
 		set_popularities = {
 		democratic = 100
@@ -137,6 +139,8 @@ create_corps_commander = {
 		
 		neutrality = 0
 	}
+set_politics = {
+
 	
 	ruling_party = democratic
 		last_election = "1934.7.17"
