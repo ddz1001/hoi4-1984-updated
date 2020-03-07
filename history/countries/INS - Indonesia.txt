@@ -50,15 +50,7 @@ diplomatic_relation = { country = SIA relation = non_aggression_pact }
 
 
 
-	set_popularities = {
-		democratic = 0
-
-		fascism = 0
-		
-		communism = 0
-		neutrality = 100
-	}
-set_politics = {
+	set_politics = {
 
 
 	ruling_party = neutrality
@@ -66,6 +58,14 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no	
 }
+set_popularities = {
+		democratic = 0
+
+		fascism = 0
+		
+		communism = 0
+		neutrality = 100
+	}
 
 create_country_leader = {
 	name = "The Shark of Jakarta"
@@ -115,7 +115,15 @@ create_country_leader = {
 	add_political_power = 1198
 	
 
-		set_popularities = {
+		set_politics = {
+
+		
+		ruling_party = neutrality
+		last_election = "1982.11.1"
+		election_frequency = 48
+		elections_allowed = no
+	}
+set_popularities = {
 		democratic = 0
 
 		fascism = 0
@@ -123,14 +131,6 @@ create_country_leader = {
 		communism = 0
 		
 		neutrality = 100
-	}
-set_politics = {
-
-		
-		ruling_party = neutrality
-		last_election = "1982.11.1"
-		election_frequency = 48
-		elections_allowed = no
 	}
 	
 }

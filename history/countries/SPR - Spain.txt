@@ -37,14 +37,7 @@ set_convoys = 100
 
 
 
-	set_popularities = {
-		democratic = 0
-
-		fascism = 0
-		
-		communism = 100
-	}
-set_politics = {
+	set_politics = {
 
 	
 	ruling_party = communism
@@ -52,6 +45,13 @@ set_politics = {
 	election_frequency = 36
 	elections_allowed = no
 }
+set_popularities = {
+		democratic = 0
+
+		fascism = 0
+		
+		communism = 100
+	}
 
 if = {
 	limit = { has_dlc = "Together for Victory" }

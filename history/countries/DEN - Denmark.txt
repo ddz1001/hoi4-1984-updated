@@ -42,14 +42,7 @@ if = {
 
 
 
-	set_popularities = {
-		democratic = 0
-
-		fascism = 0
-		
-		communism = 100
-	}
-set_politics = {
+	set_politics = {
 
 	
 	ruling_party = communism
@@ -57,6 +50,13 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
+set_popularities = {
+		democratic = 0
+
+		fascism = 0
+		
+		communism = 100
+	}
 diplomatic_relation = { country = PRC relation = non_aggression_pact }
 diplomatic_relation = { country = MAN relation = non_aggression_pact }
 diplomatic_relation = { country = PER relation = non_aggression_pact }
@@ -65,14 +65,7 @@ diplomatic_relation = { country = JAP relation = non_aggression_pact }
 1983.12.1 = {
 	
 
-		set_popularities = {
-			democratic = 0
-
-			fascism = 0
-			
-			communism = 100
-		}
-set_politics = {
+		set_politics = {
 
 		
 		ruling_party = communism
@@ -80,6 +73,13 @@ set_politics = {
 		election_frequency = 48
 		elections_allowed = no
 	}
+set_popularities = {
+			democratic = 0
+
+			fascism = 0
+			
+			communism = 100
+		}
 }
 create_country_leader = {
 	name = "Big Brother"

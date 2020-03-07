@@ -43,7 +43,15 @@ if = {
 
 
 
-	set_popularities = {
+	set_politics = {
+
+	
+	ruling_party = fascism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
 		democratic = 0
 
 		fascism = 100
@@ -52,14 +60,6 @@ if = {
 		
 		neutrality = 0
 	}
-set_politics = {
-
-	
-	ruling_party = fascism
-	last_election = "1936.1.1"
-	election_frequency = 48
-	elections_allowed = no
-}
 
 create_country_leader = {
 	name = "Big Brother"
@@ -118,7 +118,15 @@ create_corps_commander = {
 1983.12.1 = {
 	
 
-		set_popularities = {
+		set_politics = {
+
+	
+		ruling_party = fascism
+		last_election = "1936.1.1"
+		election_frequency = 48
+		elections_allowed = no
+	}
+set_popularities = {
 		democratic = 0
 
 		fascism = 100
@@ -126,13 +134,5 @@ create_corps_commander = {
 		communism = 0
 		
 		neutrality = 0
-	}
-set_politics = {
-
-	
-		ruling_party = fascism
-		last_election = "1936.1.1"
-		election_frequency = 48
-		elections_allowed = no
 	}
 }

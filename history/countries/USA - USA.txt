@@ -51,14 +51,7 @@ diplomatic_relation = { country = NEP relation = non_aggression_pact }
 diplomatic_relation = { country = JAP relation = non_aggression_pact }
 
 
-	set_popularities = {
-		democratic = 100
-
-		fascism = 0
-		
-		communism = 0
-	}
-set_politics = {
+	set_politics = {
 
 	
 	ruling_party = democratic
@@ -66,20 +59,20 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
+set_popularities = {
+		democratic = 100
+
+		fascism = 0
+		
+		communism = 0
+	}
 
 
 1983.12.1 = {
 
 	
 
-		set_popularities = {
-			democratic = 100
-
-			fascism = 0
-			
-			communism = 0
-		}
-set_politics = {
+		set_politics = {
 
 		
 		ruling_party = democratic
@@ -87,6 +80,13 @@ set_politics = {
 		election_frequency = 48
 		elections_allowed = no
 	}
+set_popularities = {
+			democratic = 100
+
+			fascism = 0
+			
+			communism = 0
+		}
 }
 
 

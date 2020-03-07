@@ -35,7 +35,15 @@ set_technology = {
 
 
 
-	set_popularities = {
+	set_politics = {
+
+	
+	ruling_party = neutrality
+	last_election = "1978.11.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
 		democratic = 0
 
 		fascism = 0
@@ -44,14 +52,6 @@ set_technology = {
 		
 		neutrality = 100
 	}
-set_politics = {
-
-	
-	ruling_party = neutrality
-	last_election = "1978.11.1"
-	election_frequency = 48
-	elections_allowed = no
-}
 create_faction = Resistance_faction
 create_country_leader = {
 	name = "Big Brother"
