@@ -287,6 +287,11 @@ spriteTypes = {
 	}	
 	
 	SpriteType = {
+		name = "GFX_artillery6_medium"
+		texturefile = "gfx/interface/technologies/artillery6.dds"
+	}	
+	
+	SpriteType = {
 		name = "GFX_artillery4_medium"
 		texturefile = "gfx/interface/technologies/Art_3_comintern.dds"
 	}	
