@@ -5,12 +5,12 @@
  nef_threat_mopeace:0 "Aggressive posturing"
  nef_threat_fightingwords:0 "The race has begun!"
  nef_threat_liberatefree:0 "Final war preperations!"
- nef_threat_drumwar:0 "Jingoistic propaganda"
- nef_threat_decindep:0 "Declared sovereignty"
- nef_threat_domearth:0 "Military aggression"
- nef_threat_liberateoceania:0 "Anti-Oceania posturing"
- nef_threat_liberateeurasia:0 "Anti-Eurasia posturing"
- nef_threat_liberateeastasia:0 "Anti-Eastasia posturing"
+ #nef_threat_drumwar:0 "Jingoistic propaganda" -- Duplicated in nef_focus_resistance
+ #nef_threat_decindep:0 "Declared sovereignty" -- Duplicated in nef_focus_resistance
+ #nef_threat_domearth:0 "Military aggression" -- Duplicated in nef_focus_resistance
+ #nef_threat_liberateoceania:0 "Anti-Oceania posturing" -- Duplicated in nef_focus_resistance
+ #nef_threat_liberateeurasia:0 "Anti-Eurasia posturing" -- Duplicated in nef_focus_resistance
+ #nef_threat_liberateeastasia:0 "Anti-Eastasia posturing" -- Duplicated in nef_focus_resistance
  mod_start_15major:0 "Playing with Divided nations:"
  mod_start_3major:0 "Playing with Standard nations:"
  
@@ -57,14 +57,14 @@
  nef_tot_ghost_of_clausewitz_past:0 "Ghost of Clausewitz Past"
  nef_tot_fire_and_brimstone:0 "Fire and Brimstone"
  nef_tot_unto_the_breach:0 "Unto the Breach"
- ma_focus_tooltip:0 "Unlocks theorist for Mass Assault.\n"
- gbp_focus_tooltip:0 "Unlocks theorist for Grand Battleplan.\n"
- sf_focus_tooltip:0 "Unlocks theorist for Superior Firepower.\n"
- mw_focus_tooltip:0 "Unlocks theorist for Mobile Warfare.\n"
- ci_focus_tooltip:0 "Unlocks theorist for Convoy Interdiction.\n"
- fib_focus_tooltip:0 "Unlocks theorist for Fleet in Being.\n"
- bs_focus_tooltip:0 "Unlocks theorist for Base Strike.\n"
- airdoc_focus_tooltip:0 "Unlocks Air Force theorists.\n"
+ #ma_focus_tooltip:0 "Unlocks theorist for Mass Assault.\n" -- Duplicated in nef_focus_resistance
+ #gbp_focus_tooltip:0 "Unlocks theorist for Grand Battleplan.\n" -- Duplicated in nef_focus_resistance
+ #sf_focus_tooltip:0 "Unlocks theorist for Superior Firepower.\n" -- Duplicated in nef_focus_resistance
+ #mw_focus_tooltip:0 "Unlocks theorist for Mobile Warfare.\n" -- Duplicated in nef_focus_resistance
+ #ci_focus_tooltip:0 "Unlocks theorist for Convoy Interdiction.\n" -- Duplicated in nef_focus_resistance
+ #fib_focus_tooltip:0 "Unlocks theorist for Fleet in Being.\n" -- Duplicated in nef_focus_resistance
+ #bs_focus_tooltip:0 "Unlocks theorist for Base Strike.\n" -- Duplicated in nef_focus_resistance
+ #airdoc_focus_tooltip:0 "Unlocks Air Force theorists.\n" -- Duplicated in nef_focus_resistance
  
  ######## NAVY
  nef_tot_reform_the_navy:0 "Reform the Navy"
@@ -248,5 +248,5 @@
  nef_tot_not_one_inch_desc:0 "With what we have accomplished, it should be easy for us to amplify this biological desire to protect one's homeland. We will beat it into their heads, that they cannot give one inch of ground to our enemy, and they must drive the invaders out or die trying."
  nef_tot_two_minutes_hate_desc:0 "Hatred is a strong emotion. The act of an entire nation joining together to embrace this emotion, all at once, is a powerful uniting force and a great testament to our successes."
  nef_tot_purge_defeatism_desc:0 "Have we suffered some setbacks? No. We are stronger than ever. Any voices that acknowledge our losses should be silenced immediately. There is no room for defeatism in this great society."
- nef_atomic_research_tt:0 "National Focus Unlock"
- nef_totalitarian_focus:0 "Totalitarian Focus"
+ #nef_atomic_research_tt:0 "National Focus Unlock" -- Duplicated in nef_focus_resistance
+ #nef_totalitarian_focus:0 "Totalitarian Focus" -- Duplicated in nef_focus_resistance
