@@ -40,21 +40,23 @@ if = {
 	add_to_tech_sharing_group = oceania_research
 }
 
-set_politics = {
 
-	set_popularities = {
-		democratic = 100
 
-		fascism = 0
-		
-		communism = 0
-	}
+	set_politics = {
+
 	
 	ruling_party = democratic
 	last_election = "1933.5.17"
 	election_frequency = 60
 	elections_allowed = no
 }
+set_popularities = {
+		democratic = 100
+
+		fascism = 0
+		
+		communism = 0
+	}
 
 diplomatic_relation = { country = SOV relation = non_aggression_pact }
 diplomatic_relation = { country = TUR relation = non_aggression_pact }
@@ -67,24 +69,23 @@ diplomatic_relation = { country = PER relation = non_aggression_pact }
 diplomatic_relation = { country = NEP relation = non_aggression_pact }
 diplomatic_relation = { country = JAP relation = non_aggression_pact }
 1983.12.1 = {
-	set_politics = {
+	
 
-		set_popularities = {
-			democratic = 100
+		set_politics = {
 
-			fascism = 0
-			
-			communism = {
-				popularity = 0
-				#banned = no #default is no
-			}
-		}
 		
 		ruling_party = democratic
 		last_election = "1938.5.18"
 		election_frequency = 60
 		elections_allowed = no
 	}
+set_popularities = {
+			democratic = 100
+
+			fascism = 0
+			
+			communism = 0
+		}
 
 }
 

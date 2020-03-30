@@ -40,9 +40,17 @@ if = {
 	add_to_tech_sharing_group = eastasia_research
 }
 
-set_politics = {
 
-	set_popularities = {
+
+	set_politics = {
+
+	
+	ruling_party = fascism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
 		democratic = 0
 
 		fascism = 100
@@ -51,12 +59,6 @@ set_politics = {
 		
 		neutrality = 0
 	}
-	
-	ruling_party = fascism
-	last_election = "1936.1.1"
-	election_frequency = 48
-	elections_allowed = no
-}
 
 create_country_leader = {
 	name = "Big Brother"
@@ -113,9 +115,17 @@ create_corps_commander = {
 	logistics_skill = 3
 }
 1983.12.1 = {
-	set_politics = {
+	
 
-		set_popularities = {
+		set_politics = {
+
+	
+	ruling_party = fascism
+		last_election = "1936.1.1"
+		election_frequency = 48
+		elections_allowed = no
+	}
+set_popularities = {
 		democratic = 0
 
 		fascism = 100
@@ -123,11 +133,5 @@ create_corps_commander = {
 		communism = 0
 		
 		neutrality = 0
-	}
-	
-	ruling_party = fascism
-		last_election = "1936.1.1"
-		election_frequency = 48
-		elections_allowed = no
 	}
 }

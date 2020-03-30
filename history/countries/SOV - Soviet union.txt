@@ -48,21 +48,23 @@ if = {
 }
 
 
-set_politics = {
 
-	set_popularities = {
-		democratic = 0
 
-		fascism = 0
-		
-		communism = 100
-	}
+	set_politics = {
+
 	
 	ruling_party = communism
 	last_election = "1933.7.1"
 	election_frequency = 48
 	elections_allowed = no
 }
+set_popularities = {
+		democratic = 0
+
+		fascism = 0
+		
+		communism = 100
+	}
 
 create_faction = Eurasia
 add_to_faction = SOV

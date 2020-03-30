@@ -40,18 +40,10 @@ if = {
 	add_to_tech_sharing_group = eurasia_research
 }
 
-set_politics = {
 
-	set_popularities = {
-		democratic = 0
 
-		fascism = 0
-		
-		communism = {
-			popularity = 100
-			banned = no
-		}
-	}
+	set_politics = {
+
 	
 	ruling_party = communism
 	last_election = "1933.3.5"
@@ -59,6 +51,13 @@ set_politics = {
 	elections_allowed = no
 
 }
+set_popularities = {
+		democratic = 0
+
+		fascism = 0
+		
+		communism = 100
+	}
 diplomatic_relation = { country = PRC relation = non_aggression_pact }
 diplomatic_relation = { country = MAN relation = non_aggression_pact }
 diplomatic_relation = { country = PER relation = non_aggression_pact }

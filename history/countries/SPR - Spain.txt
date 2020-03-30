@@ -35,21 +35,23 @@ add_ideas = {
 set_convoys = 100
 
 
-set_politics = {
 
-	set_popularities = {
-		democratic = 0
 
-		fascism = 0
-		
-		communism = 100
-	}
+	set_politics = {
+
 	
 	ruling_party = communism
 	last_election = "1933.2.16"
 	election_frequency = 36
 	elections_allowed = no
 }
+set_popularities = {
+		democratic = 0
+
+		fascism = 0
+		
+		communism = 100
+	}
 
 if = {
 	limit = { has_dlc = "Together for Victory" }

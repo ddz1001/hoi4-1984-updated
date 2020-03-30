@@ -26,7 +26,6 @@ focus_tree = {
 
 		completion_reward = {
 			army_experience = 1
-			}
 		}
 	}
 }

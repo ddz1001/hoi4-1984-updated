@@ -208,7 +208,7 @@
  nef_defendhomeland:0 "Defend the Homeland"
  nef_defendhomeland_desc:0 "Our people are inspired by your leadership and are volunteering to join our armies by the hundreds."
  nef_ocp:0 "Groupthink"
- nef_ocp_desc:0 "Brave young men are volunteering by the millions to take up arms against our enemies. Freedom for all from the oppression of ignorance will be won by the blood of these heroes."
+ #nef_ocp_desc:0 "Brave young men are volunteering by the millions to take up arms against our enemies. Freedom for all from the oppression of ignorance will be won by the blood of these heroes."
  nef_ocpres:0 "Jingo All the Way"
  nef_ocp_desc:0 "Brave young men are volunteering by the millions to take up arms against our enemies. Freedom for all from the oppression of ignorance will be won by the blood of these heroes."
  nef_equalthanothers:0 "More Equal Than Others"

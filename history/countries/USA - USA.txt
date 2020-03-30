@@ -49,46 +49,44 @@ diplomatic_relation = { country = MAN relation = non_aggression_pact }
 diplomatic_relation = { country = PER relation = non_aggression_pact }
 diplomatic_relation = { country = NEP relation = non_aggression_pact }
 diplomatic_relation = { country = JAP relation = non_aggression_pact }
-set_politics = {
 
-	set_popularities = {
-		democratic = 100
 
-		fascism = 0
-		
-		communism = {
-			popularity = 0
-			#banned = no #default is no
-		}
-	}
+	set_politics = {
+
 	
 	ruling_party = democratic
 	last_election = "1932.11.8"
 	election_frequency = 48
 	elections_allowed = no
 }
+set_popularities = {
+		democratic = 100
+
+		fascism = 0
+		
+		communism = 0
+	}
 
 
 1983.12.1 = {
 
-	set_politics = {
+	
 
-		set_popularities = {
-			democratic = 100
+		set_politics = {
 
-			fascism = 0
-			
-			communism = {
-				popularity = 0
-				#banned = no #default is no
-			}
-		}
 		
 		ruling_party = democratic
 		last_election = "1936.11.3"
 		election_frequency = 48
 		elections_allowed = no
 	}
+set_popularities = {
+			democratic = 100
+
+			fascism = 0
+			
+			communism = 0
+		}
 }
 
 
