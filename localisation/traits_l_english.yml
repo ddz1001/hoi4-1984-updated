@@ -65,23 +65,23 @@
  nuclear_enthusiast:0 "Nuclear Enthusiast"
  blitzkrieg_theorist:0 "Blitzkrieg Theorist"
  council_of_theorists:0 "Council of Theorists"
- military_theorist:0 "Military Theorist"
- air_warfare_theorist:0 "Air Warfare Theorist"
+ #military_theorist:0 "Military Theorist" --OVERWRITTEN IN NEF_IDEAS
+ #air_warfare_theorist:0 "Air Warfare Theorist"
  dive_bomber:0 "Dive Bomber"
  victory_through_airpower:0 "Victory Through Airpower"
  close_air_support_proponent:0 "Close Air Support Proponent"
  assault_avaition:0 "Assault Aviation"
- naval_theorist:0 "Naval Theorist"
+ #naval_theorist:0 "Naval Theorist" -- OVERWRITTEN IN NEF_IDEAS
  naval_aviation_pioneer:0 "Naval Aviation Pioneer"
  grand_fleet_proponent:0 "Grand Fleet Proponent"
  submarine_specialist:0 "Submarine Specialist"
- tank_manufacturer:0 "Tank Designer"
+ #tank_manufacturer:0 "Tank Designer" -- OVERWRITTEN
  artillery_manufacturer:0 "Artillery Designer"
  infantry_equipment_manufacturer:0 "Infantry Equipment Designer"
  support_equipment_manufacturer:0 "Support Equipment Designer"
  motorized_equipment_manufacturer:0 "Motorized Equipment Designer"
- naval_manufacturer:0 "Ship Designer"
- industrial_concern:0 "Industrial Concern"
+ #naval_manufacturer:0 "Ship Designer" -- OVERWRITTEN
+ #industrial_concern:0 "Industrial Concern" -- OVERWRITTEN
  construction_company:0 "Construction Company"
  electronics_concern:0 "Electronics Concern"
  electronics_developer:0 "Electronics Developer"

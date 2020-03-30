@@ -63,11 +63,11 @@
  research_production:0 "Research & Production"
  military_staff:0 "Military Priorities"
  political_advisor:0 "Political Directive"
- #tank_manufacturer:0 "Armor Designs" -- Duplicated in nef_traits
- #naval_manufacturer:0 "Ship Designs" -- Duplicated in nef_traits
+ tank_manufacturer:0 "Armor Designs"
+ naval_manufacturer:0 "Ship Designs"
  aircraft_manufacturer:0 "Aircraft Designs"
  materiel_manufacturer:0 "Materiel Designs"
- #industrial_concern:0 "Economic Focus" -- Duplicated in nef_traits
+ industrial_concern:0 "Economic Focus"
  army_chief:0 "Army Priority"
  navy_chief:0 "Navy Priority"
  air_chief:0 "Air Force Priority"
@@ -87,9 +87,9 @@
  nef_teo_air_str:0 "Strategic Destruction"
  nef_teo_air_bfs:0 "Battlefield Support"
  nef_teo_air_opr:0 "Operational Integrity"
- #military_theorist:0 "Ground War Focus" -- Duplicated in nef_traits
- #air_warfare_theorist:0 "Air War Focus" -- Duplicated in nef_traits
- #naval_theorist:0 "Naval War Focus" -- Duplicated in nef_traits
+ military_theorist:0 "Ground War Focus"
+ air_warfare_theorist:0 "Air War Focus"
+ naval_theorist:0 "Naval War Focus"
  # Other idea groups
  idea_group_army_chief:0 "Army Leadership"
  idea_group_air_chief:0 "Air Force Leadership"
