@@ -3,9 +3,9 @@ state=
 	id=102
 	name="STATE_102"
 	manpower = 644300
-	
+
 	state_category = pastoral
-	
+
 	history =
 	{
 		owner = SPR
@@ -13,11 +13,11 @@ state=
 			infrastructure = 6
 		}
 		victory_points = {
-			9627 3 
+			9627 3
 		}
 		add_core_of = YUG
 		add_core_of = SPR
-		
+
 		1980.6.2 = {
 			owner = SOV
 			controller = SOV
@@ -25,5 +25,5 @@ state=
 		}
 	}
 	provinces={
-		596 665 3631 3654 6650 6672 9596 9627 11612 	}
+	 665 3631 3654 6650 6672 9596 9627 596	}
 	}

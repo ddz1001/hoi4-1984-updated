@@ -3,7 +3,7 @@ state={
 	id=152
 	name="STATE_152"
 	manpower = 98000
-	
+
 	state_category = wasteland
 
 
@@ -13,11 +13,11 @@ state={
 			infrastructure = 2
 		}
 		victory_points = {
-			688 1 
+			688 1
 		}
 		add_core_of = AUS
 		add_core_of = GER
-		
+
 		1980.6.2 = {
 			owner = SOV
 			controller = SOV
@@ -27,6 +27,6 @@ state={
 	}
 
 	provinces={
-		688 732 3673 3674 3684 3703 6552 6687 6691 6708 6723 9650 9665 11651 
+		688 732 3673 3674 3684 3703 6552 6687 6691 6708 6723 9650 9665 11651 11612
 	}
 }
