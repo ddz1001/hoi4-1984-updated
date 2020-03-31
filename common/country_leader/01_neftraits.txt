@@ -514,7 +514,7 @@ leader_traits = {
 		army_leader_start_attack_level = 1
 		army_leader_start_defense_level = 1
 		army_leader_start_logistics_level = 1
-		army_leader_start_logistics_level = 1
+		#army_leader_start_logistics_level = 1 -- DUPLICATED ABOVE
 		
 		ai_will_do = {
 			factor = 1

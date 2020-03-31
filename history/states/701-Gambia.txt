@@ -2,7 +2,7 @@ state={
 	id=701
 	name="STATE_701"
 	manpower = 199520
-	
+
 	state_category = enclave
 	history={
 		owner = ETH
@@ -15,8 +15,8 @@ state={
 		}
 
 	}
-	
+
 	provinces={
-		4989 
+		4989 13213
 	}
 }
