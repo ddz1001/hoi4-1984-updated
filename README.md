@@ -24,7 +24,7 @@ just download a ZIP archive.
 #### ...with another Git client
 *This guide presumes that this client is set up and configured.*
 
-1. Clone `https://github.com/Buggy347/1984redux` into
+1. Clone `https://github.com/ddz1001/hoi4-1984-updated` into
    `Paradox Interactive/Hearts of Iron IV/mod`, under your Documents folder.
 2. Copy the repository's `1984.mod` into the `mods` folder.
 (If this does not work, make sure that the folder inside of the "/mod" folder is named 1984, github sometimes screws this up)
