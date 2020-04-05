@@ -5,7 +5,7 @@ tags={
 	"National Focuses"
 	"Map"
 }
-picture="nef.png"
+picture="thumbnail.png"
 replace_path="history/states"
 replace_path="history/countries"
 replace_path="events"

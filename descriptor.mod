@@ -5,9 +5,8 @@ tags={
 	"National Focuses"
 	"Map"
 }
-picture="nef.png"
+picture="thumbnail.png"
 supported_version="1.9.*"
-path="C:/Users/Dante/Documents/Paradox Interactive/Hearts of Iron IV/mod/1984"
 
 replace_path = "history/states"
 replace_path = "history/countries"
