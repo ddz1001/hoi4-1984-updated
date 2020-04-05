@@ -17,6 +17,7 @@ state=
 				naval_base = 3
 			}
 		}
+		add_core_of = USA
 		add_core_of = HAI
 		1980.6.2 = {
 			owner = ENG
