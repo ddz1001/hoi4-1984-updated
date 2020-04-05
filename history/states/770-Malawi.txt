@@ -4,6 +4,9 @@ state={
 
 	history={
 		owner = SAF
+		
+		add_core_of = SAF
+		add_core_of = ETH
 		add_core_of = MLW
 		victory_points = {
 			12986 1

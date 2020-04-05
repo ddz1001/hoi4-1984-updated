@@ -17,6 +17,7 @@ state=
 				naval_base = 2
 			}
 		}
+		add_core_of = USA
 		add_core_of = DOM
 		1980.6.2 = {
 			owner = ENG
