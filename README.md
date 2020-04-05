@@ -13,7 +13,7 @@ just download a ZIP archive.
 2. Create a [GitHub account](https://github.com/join), and sign into GitHub
    Desktop.
 3. Click File → Clone Repository; in the dialog box, under URL insert
-   `https://github.com/Buggy347/1984redux`. and clone it into
+   `https://github.com/ddz1001/hoi4-1984-updated`. and clone it into
    `Paradox Interactive/Hearts of Iron IV/mod`, under your user's Documents
    folder. Start the cloning process by clicking "Clone".
 4. Open the new folder using a file explorer. Drag `1984.mod`
