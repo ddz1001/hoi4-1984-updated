@@ -12,6 +12,7 @@ state={
 		buildings = {
 			infrastructure = 6
 		}
+		add_core_of = GER
 		add_core_of = YUG
 		add_core_of = SER
 	1980.6.2 = {
