@@ -159,104 +159,104 @@ units = {
 	}	
 
 	##### NAVAL UNITS #####
-	navy = {					
-		name = "Task Force Ordnung"				
-		base = 3314
-		location = 3314 
-		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = GER } } }
-		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = GER } } }
-		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = GER } } }
-		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = GER } } }
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GER } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GER } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GER } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GER } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GER } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GER } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GER } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GER } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GER } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GER } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GER } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GER } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GER } } }		
-	}					
-	navy = {					
-		name = "1. Wolf Pack"				
-		base = 6325
-		location = 6325				
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-	}			
-	navy = {					
-		name = "2. Wolf Pack"				
-		base = 241
-		location = 241				
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-	}			
-	navy = {					
-		name = "3. Wolf Pack"				
-		base = 6536
-		location = 6536				
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-	}		
-	navy = {					
-		name = "4. Wolf Pack"				
-		base = 3552
-		location = 3552				
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-	}	
-	navy = {					
-		name = "5. Wolf Pack"				
-		base = 3314
-		location = 3314				
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
-	}			
+#	navy = {					
+#		name = "Task Force Ordnung"				
+#		base = 3314
+#		location = 3314 
+#		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GER } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GER } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GER } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GER } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GER } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GER } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GER } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GER } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GER } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GER } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GER } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GER } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = GER } } }		
+#	}					
+#	navy = {					
+#		name = "1. Wolf Pack"				
+#		base = 6325
+#		location = 6325				
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#	}			
+#	navy = {					
+#		name = "2. Wolf Pack"				
+#		base = 241
+#		location = 241				
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#	}			
+#	navy = {					
+#		name = "3. Wolf Pack"				
+#		base = 6536
+#		location = 6536				
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#	}		
+#	navy = {					
+#		name = "4. Wolf Pack"				
+#		base = 3552
+#		location = 3552				
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#	}	
+#	navy = {					
+#		name = "5. Wolf Pack"				
+#		base = 3314
+#		location = 3314				
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = GER } } }
+#	}			
 
 }
 
