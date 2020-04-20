@@ -69,7 +69,7 @@ division_template = {
 
 ###### OOB ######
 units = {
-	division = {			
+	division = {		
 		name = "1. Infantry Division"
 		location = 5117
 		division_template = "Infantry Division"
@@ -156,107 +156,107 @@ units = {
 		start_experience_factor = 1.0
 		start_equipment_factor = 1.0
 
-	}	
+	}
 
 	##### NAVAL UNITS #####
-	navy = {					
-		name = "Task Force Revenant"				
-		base = 12589
-		location = 12589 
-		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
-	}					
-	navy = {					
-		name = "1. Wolf Pack"				
-		base = 1468
-		location = 1468				
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-	}			
-	navy = {					
-		name = "2. Wolf Pack"				
-		base = 13018
-		location = 13018				
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-	}			
-	navy = {					
-		name = "3. Wolf Pack"				
-		base = 1237
-		location = 1237				
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-	}		
-	navy = {					
-		name = "4. Wolf Pack"				
-		base = 4543
-		location = 4543				
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-	}	
-	navy = {					
-		name = "5. Wolf Pack"				
-		base = 1652
-		location = 1652				
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
-	}			
+#	navy = {			
+#		name = "Task Force Revenant"				
+#		base = 12589
+#		location = 12589 
+#		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
+#	}					
+#	navy = {					
+#		name = "1. Wolf Pack"				
+#		base = 1468
+#		location = 1468				
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#	}			
+#	navy = {					
+#		name = "2. Wolf Pack"				
+#		base = 13018
+#		location = 13018				
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#	}			
+#	navy = {					
+#		name = "3. Wolf Pack"				
+#		base = 1237
+#		location = 1237				
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#	}		
+#	navy = {					
+#		name = "4. Wolf Pack"				
+#		base = 4543
+#		location = 4543				
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#	}	
+#	navy = {					
+#		name = "5. Wolf Pack"				
+#		base = 1652
+#		location = 1652				
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+#	}
 
 }
 

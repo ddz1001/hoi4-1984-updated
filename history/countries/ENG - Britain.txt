@@ -24,7 +24,8 @@ set_technology = {
 	fuel_silos = 1
 }
 
-oob = "ENG_1936"
+set_oob = "ENG_1936"
+set_naval_oob = "ENG_1936_Naval_Legacy"
 
 add_ideas = {
 	nef_consciousness_of_self
@@ -139,7 +140,8 @@ create_navy_leader = {
 }
 1980.6.2 = {
 	set_cosmetic_tag = ENG_OC
-	oob = ENG_3major
+	set_oob = "ENG_3major"
+	set_naval_oob = "ENG_3major_Naval_Legacy"
 	set_research_slots = 5
 	set_convoys = 500
 	capital = 382

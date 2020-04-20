@@ -380,99 +380,99 @@ division = {
 		start_experience_factor = 0.5
 		start_equipment_factor = 1.0
 	}	
-		navy = {					
-		name = "Task Force Africa"				
-		base = 4076
-		location = 4076
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ETH } } }				
-		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ETH } } }	
-	}
-	navy = {					
-		name = "1. Wolf Pack"				
-		base = 4076
-		location = 4076
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-	}
-	navy = {					
-		name = "2. Wolf Pack"				
-		base = 4076
-		location = 4076
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-	}
-	navy = {					
-		name = "3. Wolf Pack"				
-		base = 4076
-		location = 4076
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-	}
-	navy = {					
-		name = "4. Wolf Pack"				
-		base = 4076
-		location = 4076
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
-	}
+#		navy = {					
+#		name = "Task Force Africa"				
+#		base = 4076
+#		location = 4076
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ETH } } }				
+#		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ETH } } }	
+#	}
+#	navy = {					
+#		name = "1. Wolf Pack"				
+#		base = 4076
+#		location = 4076
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#	}
+#	navy = {					
+#		name = "2. Wolf Pack"				
+#		base = 4076
+#		location = 4076
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#	}
+#	navy = {					
+#		name = "3. Wolf Pack"				
+#		base = 4076
+#		location = 4076
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#	}
+#	navy = {					
+#		name = "4. Wolf Pack"				
+#		base = 4076
+#		location = 4076
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ETH } } }					
+#	}
 }
 
 
