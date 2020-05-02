@@ -23,7 +23,8 @@ set_technology = {
 	motorised_infantry = 1
 	fuel_silos = 1
 }
-oob = "GER_1936"
+set_oob = "GER_1936"
+set_naval_oob = "GER_1936_Naval_Legacy"
 
 add_ideas = {
 	nef_consciousness_of_self

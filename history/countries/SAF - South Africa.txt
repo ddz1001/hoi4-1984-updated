@@ -24,7 +24,8 @@ set_technology = {
 	motorised_infantry = 1
 	fuel_silos = 1
 }
-oob = "SAF_1936"
+set_oob = "SAF_1936"
+set_naval_oob = "SAF_1936_Naval_Legacy"
 
 
 add_ideas = {

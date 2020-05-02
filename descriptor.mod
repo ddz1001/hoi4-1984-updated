@@ -1,4 +1,4 @@
-name="Hearts of Iron: 1984"
+name="Hearts of Iron: 1984 1.1 Development Build"
 tags={
 	"Alternative History"
 	"Balance"

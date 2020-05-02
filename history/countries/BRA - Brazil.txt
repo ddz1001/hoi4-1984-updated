@@ -24,7 +24,8 @@ set_technology = {
 	fuel_silos = 1
 }
 
-oob = "BRA_1936"
+set_oob = "BRA_1936"
+set_naval_oob = "BRA_1936_Naval_Legacy"
 
 add_ideas = {
 	nef_consciousness_of_self

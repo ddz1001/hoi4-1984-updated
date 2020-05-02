@@ -19,6 +19,7 @@ state={
 		1980.6.2 = {
 			owner = ENG
 			controller = ENG
+			add_core_of = ENG
 		}
 	}
 

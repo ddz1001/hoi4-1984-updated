@@ -26,7 +26,8 @@ set_technology = {
 	motorised_infantry = 1
 	fuel_silos = 1
 }
-oob = "SIA_1936"
+set_oob = "SIA_1936"
+set_naval_oob = "SIA_1936_Naval_Legacy"
 
 add_ideas = {
 	nef_disjointed_industry

@@ -158,86 +158,86 @@ units = {
 
 	}	
 
-	##### NAVAL UNITS #####
-	navy = {					
-		name = "Task Force Britannia"				
-		base = 11374
-		location = 11374 
-		ship = { definition = battleship equipment = { battleship_1 = { amount = 1 owner = ENG } } }				
-		ship = { definition = battleship equipment = { battleship_1 = { amount = 1 owner = ENG } } }						
-		ship = { definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = ENG } } }				
-		ship = { definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = ENG } } }	
-		ship = { definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = ENG } } }	
-		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ENG } } }
-		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ENG } } }
-		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ENG } } }
-		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ENG } } }
-		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ENG } } }
-		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ENG } } }
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
-		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
-	}					
-	navy = {					
-		name = "1. Wolf Pack"				
-		base = 11064
-		location = 11064				
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
-	}			
-	navy = {					
-		name = "2. Wolf Pack"				
-		base = 11064
-		location = 11064				
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
-		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
-	}						
+#	##### NAVAL UNITS #####
+#	navy = {					
+#		name = "Task Force Britannia"				
+#		base = 11374
+#		location = 11374 
+#		ship = { definition = battleship equipment = { battleship_1 = { amount = 1 owner = ENG } } }				
+#		ship = { definition = battleship equipment = { battleship_1 = { amount = 1 owner = ENG } } }						
+#		ship = { definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = ENG } } }				
+#		ship = { definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = ENG } } }	
+#		ship = { definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = ENG } } }	
+#		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ENG } } }
+#		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ENG } } }
+#		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ENG } } }
+#		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ENG } } }
+#		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ENG } } }
+#		ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = ENG } } }
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
+#		ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = ENG } } }		
+#	}					
+#	navy = {					
+#		name = "1. Wolf Pack"				
+#		base = 11064
+#		location = 11064				
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
+#	}			
+#	navy = {					
+#		name = "2. Wolf Pack"				
+#		base = 11064
+#		location = 11064				
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
+#		ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = ENG } } }
+#	}						
 
 }
 

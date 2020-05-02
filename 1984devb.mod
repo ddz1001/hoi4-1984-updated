@@ -1,4 +1,4 @@
-name="Hearts of Iron: 1984"
+name="Hearts of Iron: 1984 Development Build"
 tags={
 	"Alternative History"
 	"Balance"
@@ -10,4 +10,4 @@ replace_path="history/states"
 replace_path="history/countries"
 replace_path="events"
 supported_version="1.9.*"
-path="C:/Users/Dante/Documents/Paradox Interactive/Hearts of Iron IV/mod/1984"
+path="C:/Users/Dante/Documents/GitHub/1984/1984-11"
