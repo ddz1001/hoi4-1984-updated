@@ -6,8 +6,8 @@ tags={
 	"Map"
 }
 picture="thumbnail.png"
+replace_path="history/states"
+replace_path="history/countries"
+replace_path="events"
 supported_version="1.9.*"
-
-replace_path = "history/states"
-replace_path = "history/countries"
-replace_path = "events"
+path="C:/Users/Dante/Documents/GitHub/1984/1984-11"
