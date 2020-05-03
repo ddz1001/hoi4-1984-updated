@@ -1,4 +1,4 @@
-name="Hearts of Iron: 1984 Redux"
+name="Hearts of Iron: 1984 Redux Development Build 1.2"
 tags={
 	"Alternative History"
 	"Balance"
