@@ -428,7 +428,7 @@ technologies = {
 		start_year = 1980
 		folder = {
 			name = infantry_folder
-			position = { x = 0 y = @1980 }
+			position = { x = 2 y = @1980 }
 		}
 		
 		on_research_complete_limit = {
@@ -483,7 +483,7 @@ technologies = {
 		start_year = 1983
 		folder = {
 			name = infantry_folder
-			position = { x = 0 y = @1983 }
+			position = { x = 2 y = @1983 }
 		}
 		
 		categories = {
@@ -521,7 +521,7 @@ technologies = {
 		start_year = 1987
 		folder = {
 			name = infantry_folder
-			position = { x = 0 y = @1987 }
+			position = { x = 2 y = @1987 }
 		}
 		
 		categories = {
@@ -575,7 +575,7 @@ technologies = {
 		start_year = 1980
 		folder = {
 			name = infantry_folder
-			position = { x = 0 y = @1980 }
+			position = { x = 3 y = @1980 }
 		}
 		
 		categories = {
@@ -623,7 +623,7 @@ technologies = {
 		start_year = 1983
 		folder = {
 			name = infantry_folder
-			position = { x = 0 y = @1983 }
+			position = { x = 3 y = @1983 }
 		}
 		
 		categories = {
@@ -665,7 +665,7 @@ technologies = {
 		start_year = 1987
 		folder = {
 			name = infantry_folder
-			position = { x = 0 y = @1987 }
+			position = { x = 3 y = @1987 }
 		}
 		
 		categories = {
@@ -724,7 +724,7 @@ technologies = {
 		start_year = 1980
 		folder = {
 			name = infantry_folder
-			position = { x = 0 y = @1980 }
+			position = { x = 5 y = @1980 }
 		}
 		
 		categories = {
@@ -758,7 +758,7 @@ technologies = {
 		start_year = 1983
 		folder = {
 			name = infantry_folder
-			position = { x = 0 y = @1983 }
+			position = { x = 5 y = @1983 }
 		}
 		
 		categories = {
@@ -785,7 +785,7 @@ technologies = {
 		start_year = 1987
 		folder = {
 			name = infantry_folder
-			position = { x = 0 y = @1987 }
+			position = { x = 5 y = @1987 }
 		}
 		
 		categories = {
@@ -826,7 +826,7 @@ technologies = {
 		start_year = 1982
 		folder = {
 			name = infantry_folder
-			position = { x = 1 y = @1982 }
+			position = { x = 4 y = @1982 }
 		}
 		
 		categories = {
@@ -862,7 +862,7 @@ technologies = {
 		start_year = 1984
 		folder = {
 			name = infantry_folder
-			position = { x = 0 y = @1984 }
+			position = { x = 3 y = @1984 }
 		}
 		
 		categories = {
@@ -893,7 +893,7 @@ technologies = {
 		start_year = 1984
 		folder = {
 			name = infantry_folder
-			position = { x = 2 y = @1984 }
+			position = { x = 5 y = @1984 }
 		}
 		
 		categories = {
@@ -927,7 +927,7 @@ technologies = {
 		start_year = 1986
 		folder = {
 			name = infantry_folder
-			position = { x = 0 y = @1986 }
+			position = { x = 3 y = @1986 }
 		}
 		
 		categories = {
@@ -960,7 +960,7 @@ technologies = {
 		start_year = 1986
 		folder = {
 			name = infantry_folder
-			position = { x = 2 y = @1986 }
+			position = { x = 5 y = @1986 }
 		}
 		
 		categories = {
@@ -989,7 +989,7 @@ technologies = {
 		start_year = 1988
 		folder = {
 			name = infantry_folder
-			position = { x = 1 y = @1988 }
+			position = { x = 4 y = @1988 }
 		}
 		
 		categories = {
@@ -1881,7 +1881,7 @@ technologies = {
 		start_year = 1984
 		folder = {
 			name = infantry_folder
-			position = { x = 0 y = @1984 }
+			position = { x = 0 y = @1986 }
 		}
 		
 		categories = {
