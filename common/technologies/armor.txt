@@ -8,13 +8,12 @@ technologies = {
 		enable_subunits = {
 			light_armor
 		}
-
+		on_research_complete_limit = {
+			NOT = {	has_template_containing_unit = light_armor }
+			NOT = {	has_template_containing_unit = heavy_armor }
+			NOT = {	has_template_containing_unit = medium_armor }
+		}
 		on_research_complete = {
-			limit = {
-				NOT = {	has_template_containing_unit = light_armor }
-				NOT = {	has_template_containing_unit = heavy_armor }
-				NOT = {	has_template_containing_unit = medium_armor }
-			}
 			hidden_effect = {
 				if = {
 					limit = {
@@ -91,12 +90,12 @@ technologies = {
 			light_armor
 		}
 
+		on_research_complete_limit = {
+			NOT = {	has_template_containing_unit = light_armor }
+			NOT = {	has_template_containing_unit = heavy_armor }
+			NOT = {	has_template_containing_unit = medium_armor }
+		}
 		on_research_complete = {
-			limit = {
-				NOT = {	has_template_containing_unit = light_armor }
-				NOT = {	has_template_containing_unit = heavy_armor }
-				NOT = {	has_template_containing_unit = medium_armor }
-			}
 			hidden_effect = {
 				if = {
 					limit = {
@@ -515,8 +514,7 @@ technologies = {
 			}
 			modifier = {
 				not = {
-					any_state = {
-						is_controlled_by = ROOT
+					any_controlled_state = {
 						is_coastal = yes
 					}
 				}
@@ -560,8 +558,7 @@ technologies = {
 			}
 			modifier = {
 				not = {
-					any_state = {
-						is_controlled_by = ROOT
+					any_controlled_state = {
 						is_coastal = yes
 					}
 				}
@@ -1450,7 +1447,7 @@ technologies = {
 		}
 
 		enable_subunits = {
-			light_sp_anti_air_brigade
+			modern_sp_anti_air_brigade
 		}
 	
 		research_cost = 0.5
@@ -1475,12 +1472,12 @@ technologies = {
 			heavy_armor
 		}
 
+		on_research_complete_limit = {
+			NOT = {	has_template_containing_unit = light_armor }
+			NOT = {	has_template_containing_unit = heavy_armor }
+			NOT = {	has_template_containing_unit = medium_armor }
+		}
 		on_research_complete = {
-			limit = {
-				NOT = {	has_template_containing_unit = light_armor }
-				NOT = {	has_template_containing_unit = heavy_armor }
-				NOT = {	has_template_containing_unit = medium_armor }
-			}
 			hidden_effect = {
 				if = {
 					limit = {
